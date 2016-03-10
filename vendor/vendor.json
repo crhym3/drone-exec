@@ -1,0 +1,81 @@
+{
+	"comment": "",
+	"ignore": "",
+	"package": [
+		{
+			"path": "github.com/Sirupsen/logrus",
+			"revision": "07d998d174c4e2dc90e2f1989a20724220bca1ff",
+			"revisionTime": "2015-07-07T14:07:35-04:00"
+		},
+		{
+			"path": "github.com/cloudfoundry-incubator/candiedyaml",
+			"revision": "4e924c79e32959414e8c7aaed6607176d8ee79c3",
+			"revisionTime": "2016-01-27T09:57:50-08:00"
+		},
+		{
+			"path": "github.com/docker/docker/pkg/ioutils",
+			"revision": "cd642973fa50531d3da6c13eb0255b6f4cc8aa9c",
+			"revisionTime": "2015-07-15T16:41:18-07:00"
+		},
+		{
+			"path": "github.com/docker/docker/pkg/jsonlog",
+			"revision": "cd642973fa50531d3da6c13eb0255b6f4cc8aa9c",
+			"revisionTime": "2015-07-15T16:41:18-07:00"
+		},
+		{
+			"path": "github.com/docker/docker/pkg/stdcopy",
+			"revision": "cd642973fa50531d3da6c13eb0255b6f4cc8aa9c",
+			"revisionTime": "2015-07-15T16:41:18-07:00"
+		},
+		{
+			"path": "github.com/docker/docker/pkg/timeutils",
+			"revision": "cd642973fa50531d3da6c13eb0255b6f4cc8aa9c",
+			"revisionTime": "2015-07-15T16:41:18-07:00"
+		},
+		{
+			"path": "github.com/docker/go-units",
+			"revision": "954fed01cc617c55d838fa2230073f2cb17386c8",
+			"revisionTime": "2015-12-15T14:00:59-08:00"
+		},
+		{
+			"path": "github.com/drone/drone-plugin-go/plugin",
+			"revision": "d6109f644c5935c22620081b4c234bb2263743c7",
+			"revisionTime": "2016-01-12T09:52:51-08:00"
+		},
+		{
+			"path": "github.com/flynn/go-shlex",
+			"revision": "3f9db97f856818214da2e1057f8ad84803971cff",
+			"revisionTime": "2015-05-15T10:53:56-04:00"
+		},
+		{
+			"path": "github.com/franela/goblin",
+			"revision": "889391d730237f8aca06ce3e62975112983f96b4",
+			"revisionTime": "2016-01-23T18:11:54-03:00"
+		},
+		{
+			"path": "github.com/ghodss/yaml",
+			"revision": "1a6f069841556a7bcaff4a397ca6e8328d266c2f",
+			"revisionTime": "2016-03-07T13:52:05-08:00"
+		},
+		{
+			"path": "github.com/samalba/dockerclient",
+			"revision": "3d72fd47163999d49d48f7504e644943fe30c019",
+			"revisionTime": "2015-12-17T16:31:31-08:00"
+		},
+		{
+			"path": "github.com/square/go-jose",
+			"revision": "37934a899dd03635373fd1e143936d32cfe48d31",
+			"revisionTime": "2015-11-19T10:07:58-08:00"
+		},
+		{
+			"path": "github.com/square/go-jose/cipher",
+			"revision": "37934a899dd03635373fd1e143936d32cfe48d31",
+			"revisionTime": "2015-11-19T10:07:58-08:00"
+		},
+		{
+			"path": "gopkg.in/yaml.v2",
+			"revision": "f7716cbe52baa25d2e9b0d0da546fcf909fc16b4",
+			"revisionTime": "2015-12-01T14:27:45-02:00"
+		}
+	]
+}
