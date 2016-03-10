@@ -183,7 +183,7 @@ func Test_Funcs(t *testing.T) {
 				g.Describe("without an Image", func() {
 					g.It("sets the Image to NodeCache", func() {
 						ImageName(node)
-						g.Assert(node.Image).Equal(`plugins/drone-cache:latest`)
+						g.Assert(node.Image).Equal(`crhym3/drone-cache:latest`)
 					})
 
 					g.It("does not error", func() {

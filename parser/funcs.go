@@ -15,9 +15,9 @@ var (
 )
 
 const (
-	DefaultCloner = "plugins/drone-git"   // Default clone plugin.
-	DefaultCacher = "plugins/drone-cache" // Default cache plugin.
-	DefaultMatch  = "plugins/*"           // Default plugin whitelist.
+	DefaultCloner = "plugins/drone-git"  // Default clone plugin.
+	DefaultCacher = "crhym3/drone-cache" // Default cache plugin.
+	DefaultMatch  = "plugins/*"          // Default plugin whitelist.
 )
 
 // RuleFunc defines a function used to validate or modify the yaml during
